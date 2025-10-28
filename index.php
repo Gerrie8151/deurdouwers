@@ -1,7 +1,7 @@
 <?php include 'header.php'; ?>
 
 <section class=" text-green-800 py-20 text-center">
-  <h2 class="text-5xl font-extrabold mb-6 drop-shadow-lg">Welkom op de officiële website van de Deurdouwers!</h2>
+  <h2 class="text-5xl font-extrabold mb-6 drop-shadow-lg">Welkom op de officiële website van C.V De Deurdouwers!</h2>
   </p>
   <a href="evenementen.php" class="mt-8 inline-block bg-green-700 text-white px-8 py-4 rounded-full shadow-lg hover:bg-green-800 transition">
     Bekijk onze evenementen

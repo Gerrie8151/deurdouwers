@@ -628,7 +628,7 @@
       <img src="assets/wagen1977.jpg" alt="Carnavalswagen 1977" class="w-full h-64 object-cover cursor-pointer" onclick="openModal('assets/wagen1977.jpg')">
       <div class="p-4 text-center">
         <h3 class="text-xl font-bold text-green-700 mb-2"><strong>Carnavalswagen 1977</strong></h3>
-        <p class="text-gray-600 mb-4">Meer leut voor je poen in cafetaria de lachende meloen<br><strong> #2e plaats</strong></p>
+        <p class="text-gray-600 mb-4">De koperen-Ko-Show<br><strong> #2e plaats</strong></p>
         <button onclick="openModal('assets/wagen1977.jpg')" class="mt-8 inline-block bg-green-700 text-white px-8 py-4 rounded-full shadow-lg hover:bg-green-800 transition">
           <strong> Bekijk </strong>
         </button>
