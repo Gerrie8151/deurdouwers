@@ -20,7 +20,7 @@
 
     <!-- Foto 2 -->
     <div class="bg-white rounded-2xl shadow-lg overflow-hidden hover:shadow-2xl transition">
-      <img src="assets/wagen2025.png" alt="Carnavalswagen 2025" class="w-full h-64 object-cover cursor-pointer" onclick="openModal('assets/wagen2025.jpg')">
+      <img src="assets/wagen2025.png" alt="Carnavalswagen 2025" class="w-full h-64 object-cover cursor-pointer" onclick="openModal('assets/wagen2025.png')">
       <div class="p-4 text-center">
         <h3 class="text-xl font-bold text-green-700 mb-2"><strong>Carnavalswagen 2025</strong></h3>
         <p class="text-gray-600 mb-4">Van carnaval krijgt heel ‘t Sas energie, dus stilvallen doen we meej die daoge zeker nie<br><strong>#3e plaats</strong></p>
@@ -34,7 +34,7 @@
 
     <!-- Foto 3 -->
     <div class="bg-white rounded-2xl shadow-lg overflow-hidden hover:shadow-2xl transition">
-      <img src="assets/wagen2024.png" alt="Carnavalswagen 2024" class="w-full h-64 object-cover cursor-pointer" onclick="openModal('assets/wagen2024.jpg')">
+      <img src="assets/wagen2024.png" alt="Carnavalswagen 2024" class="w-full h-64 object-cover cursor-pointer" onclick="openModal('assets/wagen2024.png')">
       <div class="p-4 text-center">
         <h3 class="text-xl font-bold text-green-700 mb-2"><strong>Carnavalswagen 2024</strong></h3>
         <p class="text-gray-600 mb-4">We komme als Vikingen vanuit het verre noorden naar ‘t Sas over zee, maar blijf mee je tentakels van ons Bourgondisch diner!<br><strong>#3e plaats</strong></p>
