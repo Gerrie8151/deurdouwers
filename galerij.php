@@ -718,7 +718,6 @@
     document.getElementById('imageModal').classList.remove('hidden');
     document.getElementById('imageModal').classList.add('flex');
 
-    // ✅ Scroll blokkeren wanneer de modal open is
     document.body.style.overflow = 'hidden';
   }
 
@@ -726,11 +725,10 @@
     document.getElementById('imageModal').classList.add('hidden');
     document.getElementById('imageModal').classList.remove('flex');
 
-    // ✅ Scroll weer toestaan wanneer de modal gesloten is
+   
     document.body.style.overflow = '';
   }
 
-  // Sluiten met ESC
   document.addEventListener('keydown', (e) => {
     if (e.key === 'Escape') closeModal();
   });
