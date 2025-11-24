@@ -17,6 +17,10 @@
         <p class="text-gray-600">Zaterdag 24 Januari 2026</p>
       </li>
       <li class="p-6 bg-white rounded-2xl shadow hover:shadow-lg transition">
+        <h3 class="font-bold text-xl text-green-600">Wagentjes kijken</h3>
+        <p class="text-gray-600">Zaterdag 31 Januari 2026</p>
+      </li>
+      <li class="p-6 bg-white rounded-2xl shadow hover:shadow-lg transition">
         <h3 class="font-bold text-xl text-green-600">Carnaval</h3>
         <p class="text-gray-600">13 tot en met 17 Februari 2026</p>
       </li>
