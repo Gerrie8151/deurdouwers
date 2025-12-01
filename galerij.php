@@ -2,7 +2,57 @@
 
 <section class="max-w-7xl mx-auto py-16 px-6">
   <h2 class="text-4xl font-extrabold text-green-700 mb-10 text-center">Galerij</h2>
+<!-- RESULTATEN OVERZICHT -->
+<div class="grid grid-cols-1 sm:grid-cols-3 lg:grid-cols-4 gap-6 mb-12">
 
+  <!-- 1e plaatsen -->
+  <div class="bg-white shadow-xl rounded-2xl p-6 text-center border-2 border-green-600">
+    <h4 class="text-5xl font-extrabold text-green-700">22</h4> <!-- PAS GETAL AAN -->
+    <p class="text-gray-700 mt-2 font-semibold">Keer 1e plaats</p>
+  </div>
+
+  <!-- 2e plaatsen -->
+  <div class="bg-white shadow-xl rounded-2xl p-6 text-center border-2 border-yellow-500">
+    <h4 class="text-5xl font-extrabold text-yellow-500">10</h4> <!-- PAS GETAL AAN -->
+    <p class="text-gray-700 mt-2 font-semibold">Keer 2e plaats</p>
+  </div>
+
+  <!-- 3e plaatsen -->
+  <div class="bg-white shadow-xl rounded-2xl p-6 text-center border-2 border-green-600">
+    <h4 class="text-5xl font-extrabold text-green-700">12</h4> <!-- PAS GETAL AAN -->
+    <p class="text-gray-700 mt-2 font-semibold">Keer 3e plaats</p>
+  </div>
+
+  <!-- 4e plaatsen -->
+  <div class="bg-white shadow-xl rounded-2xl p-6 text-center border-2 border-yellow-500">
+    <h4 class="text-5xl font-extrabold text-yellow-500">3</h4> <!-- PAS GETAL AAN -->
+    <p class="text-gray-700 mt-2 font-semibold">Keer 4e plaats</p>
+  </div>
+
+  <!-- 5e plaatsen -->
+  <div class="bg-white shadow-xl rounded-2xl p-6 text-center border-2 border-green-600">
+    <h4 class="text-5xl font-extrabold text-green-700">3</h4> <!-- PAS GETAL AAN -->
+    <p class="text-gray-700 mt-2 font-semibold">Keer 5e plaats</p>
+  </div>
+
+  <!-- 6e plaatsen -->
+  <div class="bg-white shadow-xl rounded-2xl p-6 text-center border-2 border-yellow-500">
+    <h4 class="text-5xl font-extrabold text-yellow-500">1</h4> <!-- PAS GETAL AAN -->
+    <p class="text-gray-700 mt-2 font-semibold">Keer 6e plaats</p>
+  </div>
+
+  <!-- carnavalesk plaatsen -->
+  <div class="bg-white shadow-xl rounded-2xl p-6 text-center border-2 border-green-600">
+    <h4 class="text-5xl font-extrabold text-green-700">8</h4> <!-- PAS GETAL AAN -->
+    <p class="text-gray-700 mt-2 font-semibold">Keer carnavalesk</p>
+  </div>
+  <!-- totaal -->
+  <div class="bg-white shadow-xl rounded-2xl p-6 text-center border-2 border-yellow-500">
+    <h4 class="text-5xl font-extrabold text-yellow-500">55</h4> <!-- PAS GETAL AAN -->
+    <p class="text-gray-700 mt-2 font-semibold">Jaar actief</p>
+  </div>
+
+</div>
   <div class="grid sm:grid-cols-2 md:grid-cols-3 gap-8">
     <!-- Foto 1 -->
     <div class="bg-white rounded-2xl shadow-lg overflow-hidden hover:shadow-2xl transition">
