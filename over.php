@@ -50,7 +50,8 @@
         <h4 class="text-xl font-extrabold text-green-700 mb-8">2000 — Moderne Tijd</h4>
         <p>
           Met een nieuw bouwteam en moderne technieken werden de wagens steeds groter en spectaculairder. 
-          De Deurdouwers stonden steeds vaker op het podium bij prijsuitreikingen.
+          De Deurdouwers stonden steeds vaker op het podium voor de 1e prijs bij prijsuitreikingen. Ook waren de deurdouwers 5 keer achter elkaar 1e geworden in 2004 tot en met 2008.
+          Hiermee waren ze de eerste vereniging in Sas van gent die de zogenaamde 5x1 haalden.
         </p>
       </div>
       <div class="border-l-4 border-white pl-6 relative">

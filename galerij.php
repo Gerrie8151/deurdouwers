@@ -19,7 +19,7 @@
 
   <!-- 3e plaatsen -->
   <div class="bg-white shadow-xl rounded-2xl p-6 text-center border-2 border-green-600">
-    <h4 class="text-5xl font-extrabold text-green-700">12</h4> <!-- PAS GETAL AAN -->
+    <h4 class="text-5xl font-extrabold text-green-700">13</h4> <!-- PAS GETAL AAN -->
     <p class="text-gray-700 mt-2 font-semibold">Keer 3e plaats</p>
   </div>
 
@@ -56,15 +56,15 @@
   <div class="grid sm:grid-cols-2 md:grid-cols-3 gap-8">
     <!-- Foto 1 -->
     <div class="bg-white rounded-2xl shadow-lg overflow-hidden hover:shadow-2xl transition">
-      <img src="assets/placeholder.jpg" alt="Carnavalswagen 2026" class="w-full h-64 object-cover cursor-pointer" onclick="openModal('assets/placeholder.jpg')">
+      <img src="assets/wagen2026.png" alt="Carnavalswagen 2026" class="w-full h-64 object-cover cursor-pointer" onclick="openModal('assets/placeholder.jpg')">
       <div class="p-4 text-center">
         <h3 class="text-xl font-bold text-green-700 mb-2"><strong>Carnavalswagen 2026</strong></h3>
-        <p class="text-gray-600 mb-4">Coming soon!</p>
-        <!---<button onclick="openModal('assets/placeholder.jpg')" class="mt-8 inline-block bg-green-700 text-white px-8 py-4 rounded-full shadow-lg hover:bg-green-800 transition">
+        <p class="text-gray-600 mb-4">'Mee onz Eddy al 55 joar op pad. Feest méé ballonnen voor éél Betenkoppenstad!<br><strong>#3e plaats</strong></p>
+        <button onclick="openModal('assets/wagen2026.png')" class="mt-8 inline-block bg-green-700 text-white px-8 py-4 rounded-full shadow-lg hover:bg-green-800 transition">
           <strong>
             Bekijk
           </strong>
-        </button> --->
+        </button>
       </div>
     </div>
 
